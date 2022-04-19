@@ -1,16 +1,7 @@
 # baraj_takip
 
-A new Flutter project.
 
-## Getting Started
+## Flutter project.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter project for follow up barrage levels , capasity...![WhatsApp Image 2022-04-19 at 19 52 22](https://user-images.githubusercontent.com/63900364/164059624-f653a812-fc1c-42fc-ab3e-ee822b311fa7.jpeg)
+![WhatsApp Image 2022-04-19 at 19 52 21](https://user-images.githubusercontent.com/63900364/164059639-9dbbb808-7420-4890-8b45-abc293ab3137.jpeg)
