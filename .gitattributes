@@ -1,1 +1,2 @@
-project-docs/* linguist-documentation
+* linguist-vendored
+*.dart linguist-vendored=false
